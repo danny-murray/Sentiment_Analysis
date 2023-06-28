@@ -1,6 +1,6 @@
 # Sentiment Analysis on Hotel Reviews
 
-This was small NLP project with the goal of classifing hotel reviews as either positive or negative based on their sentiment.
+This was a small NLP project with the goal of classifing hotel reviews as either positive or negative based on their sentiment.
 
 ## Prerequisites
 
