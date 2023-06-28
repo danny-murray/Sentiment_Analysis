@@ -28,9 +28,9 @@ cd hotel-review-sentiment-analysis
 4. Update the 'input_file' variable in 'training.py' to specify the path to the preprocessed hotel reviews CSV file.
 
 5. Run the sentiment analysis pipeline by executing the following command:
-'''
+```shell
 python training.py
-'''
+```
 
 The pipeline will load the dataset, preprocess the data, undersample for imbalanced data, train a Linear SVC model, and evaluate its performance. The accuracy and classification report will be printed to the console.
 
