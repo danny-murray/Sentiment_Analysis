@@ -6,21 +6,22 @@ This was a small NLP project with the goal of classifing hotel reviews as either
 
 Python 3.x along with the required packages listed in 'requirements.txt'. You can install the dependencies using pip:
 
-'''shell
+```shell
 pip install -r requirements.txt
-'''
+```
 
 ## Usage
 
 1. Clone the repository to your local machine:
-'''
+
+```shell
 git clone https://github.com/your-username/hotel-review-sentiment-analysis.git
-'''
+```
 
 2. Navigate to the project directory:
-'''
+```shell
 cd hotel-review-sentiment-analysis
-'''
+```
 
 3. Have the preprocessed hotel reviews dataset in CSV format.
 
