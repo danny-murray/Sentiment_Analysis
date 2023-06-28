@@ -6,7 +6,7 @@ This was a small NLP project with the goal of classifing hotel reviews as either
 
 Python 3.x along with the required packages listed in 'requirements.txt'. You can install the dependencies using pip:
 
-'''
+'''shell
 pip install -r requirements.txt
 '''
 
